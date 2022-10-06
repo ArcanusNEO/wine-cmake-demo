@@ -1,7 +1,7 @@
 *.*#
 *~
 .#*
-*.a
+# *.a
 *.app
 *.autosave
 *build-*
@@ -37,7 +37,7 @@ dkms.conf
 *.ko
 *.la
 *.lai
-*.lib
+# *.lib
 *.lo
 Makefile*
 *.map
@@ -87,8 +87,8 @@ qrc_*.cpp
 *.sln
 *.slo
 *.smod
-*.so
-*.so.*
+# *.so
+# *.so.*
 *.su
 *.suo
 .*.swp
